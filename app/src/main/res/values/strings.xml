@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prog_Graph</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_circle">CircleActivity</string>
+    <string name="title_activity_bar">BarActivity</string>
+    <string name="title_activity_line">LineActivity</string>
+</resources>
